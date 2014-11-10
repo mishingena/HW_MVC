@@ -10,4 +10,16 @@
 
 @interface ViewController : UIViewController
 
+- (IBAction)pressedButton:(UIButton *)sender;
+- (IBAction)switchToggled:(UISwitch *)sender;
+- (IBAction)sliderTouched:(id)sender;
+- (IBAction)segmentControlPressed:(id)sender;
+
+@property IBOutlet UIButton *butt;
+@property (weak, nonatomic) IBOutlet UISlider *slider;
+@property IBOutlet UISwitch *switcher;
+@property (weak, nonatomic) IBOutlet UITextField *text;
+@property (weak, nonatomic) IBOutlet UISegmentedControl *segmentControl;
+
+
 @end
