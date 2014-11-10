@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>0A74A920-E052-404B-B6F1-9C3353CF49EE</string>
+	<string>AB758349-AF32-43AD-8AB0-9572E4293EED</string>
 	<key>IDESourceControlProjectName</key>
 	<string>ProjectMVC</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -13,12 +13,10 @@
 		<key>C1844875-19F6-4449-AB59-320A0ED78FF5</key>
 		<string>https://github.com/mishingena/HW_MVC</string>
 	</dict>
-	<key>IDESourceControlProjectPath</key>
-	<string>ProjectMVC.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>C1844875-19F6-4449-AB59-320A0ED78FF5</key>
-		<string>../..</string>
+		<string>../../../ProjectMVC</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/mishingena/HW_MVC</string>
